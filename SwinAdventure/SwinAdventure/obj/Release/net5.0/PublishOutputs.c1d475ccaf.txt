@@ -1,0 +1,5 @@
+Z:\New folder (3)\SwinAdventure.exe
+Z:\New folder (3)\SwinAdventure.dll
+Z:\New folder (3)\SwinAdventure.deps.json
+Z:\New folder (3)\SwinAdventure.runtimeconfig.json
+Z:\New folder (3)\SwinAdventure.pdb

@@ -1,0 +1,16 @@
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\bin\Release\net5.0\SwinAdventure.exe
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\bin\Release\net5.0\SwinAdventure.deps.json
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\bin\Release\net5.0\SwinAdventure.runtimeconfig.json
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\bin\Release\net5.0\SwinAdventure.runtimeconfig.dev.json
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\bin\Release\net5.0\SwinAdventure.dll
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\bin\Release\net5.0\SwinAdventure.pdb
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\obj\Release\net5.0\SwinAdventure.csproj.AssemblyReference.cache
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\obj\Release\net5.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\obj\Release\net5.0\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\obj\Release\net5.0\SwinAdventure.AssemblyInfo.cs
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\obj\Release\net5.0\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\obj\Release\net5.0\SwinAdventure.dll
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\obj\Release\net5.0\refint\SwinAdventure.dll
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\obj\Release\net5.0\SwinAdventure.pdb
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\obj\Release\net5.0\SwinAdventure.genruntimeconfig.cache
+C:\Users\Tarif\Downloads\SwinBurne-University\New folder\SwinAdventure\SwinAdventure\obj\Release\net5.0\ref\SwinAdventure.dll
